@@ -1,3 +1,7 @@
 {
-	"token": "MTI0OTQ0Mzg1MzI4MzM2MDgzMQ.GCXrvR.1bf4Tb8mWHNE5EfWM9AG_oCej-cls751ITulS0"
+	"token": "MTI0OTQ0Mzg1MzI4MzM2MDgzMQ.GCXrvR.1bf4Tb8mWHNE5EfWM9AG_oCej-cls751ITulS0",
+    "clientId": "1249443853283360831",
+	"guildId": "834916187052965928",
+    "mcServerHost": "192.168.1.43",
+    "mcServerPort": 25565
 }
